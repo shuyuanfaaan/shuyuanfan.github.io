@@ -1,5 +1,5 @@
 # Prima Aditya 
-<img src="./sfan.jpg" width=160 height=200>
+<img src="./sfan.jpg" width=160 height=180>
 
  <sub>prima.aditya@tuhh.de</sub>
 
